@@ -1,6 +1,6 @@
 Upload section via Instagram link Save this source code in an html file
 ```html
-<form method="post" action="video_server.php">
+<form method="post" action="upload_server.php">
     <div class="form-group">
         <input type="text" name="url" required>
     </div>
